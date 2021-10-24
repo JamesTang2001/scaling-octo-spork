@@ -20,3 +20,10 @@ Note: Don’t worry if some words don’t make much sense right now. We’ll lea
 '''
 
 '''
+#include <iostream>
+
+int main() {
+
+  std::cout << "Hello World!\n";
+
+}
